@@ -6,6 +6,7 @@
 ## 🔋 You can learn more about me on my <a href="https://aryaman.dev" target="blank">website!</a>
 * Built with ❤ in React and Firebase
 
+[![Visits Badge](https://badges.pufler.dev/visits/ad-world/ad-world)](https://badges.pufler.dev)
 ## 🖥 Github Stats
 
 
