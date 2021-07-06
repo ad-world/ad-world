@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-world&theme=radical&langs_count=3&border_radius=20" />
 </a>
 <a href="https://github.com/ad-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-world&show_icons=true&theme=radical&border_radius=20" alt="Aryaman's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-world&show_icons=true&theme=radical&border_radius=20&cache_seconds=1800" alt="Aryaman's GitHub Stats" />
 </a>
 
 
