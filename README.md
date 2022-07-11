@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Aryaman Dhingra @ad-world
-* I'm currently a second year Computer Science Student at the University of Waterloo! 🦆
-* Over the summer of 2021, I interned as a Full-Stack Dev @ Malvor in Qatar!
-* I will be interning at OMERS during the Summer of 2022 as a Student Front End Developer!
+* I'm currently a Student Front End Developer at OMERS!
+* In addition, I will be going into my third year Computer Science Student at the University of Waterloo in Fall 2022! 🦆
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 
 ## 🔋 You can learn more about me on my <a href="https://aryaman.dev" target="_blank">website!</a>
