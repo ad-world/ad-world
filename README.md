@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aryaman Dhingra @ad-world
 * I'm currently a third year Computer Science Student at the University of Waterloo! 🦆
-* I am looking for a co-op for the upcoming winter term (Jan 2023 - April 2023).
+* I am currently interning as a Full Stack Developer at OMERS!
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 
 ## 🔋 You can learn more about me on my <a href="https://aryaman.dev" target="_blank">website!</a>
