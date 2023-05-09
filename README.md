@@ -3,14 +3,13 @@
 
 ## 🔎 About Me
 * Third year Computer Science Student at the University of Waterloo! 🦆
-* Currently interning as a Full Stack Developer at OMERS!
-* Tech Lead @ UW MathSoc
 * Seeking Fall 2023 Software Engineering Internship/Co-op Opportunities
+* Interned as a Full Stack Developer @ OMERS from January to April!
+* Tech Lead @ UW MathSoc
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
-* Rebuilding the pension transaction system at OMERS
 * Working on Music Sessions Reimagined (JAMS), a rebuild of my project titled "Music Sessions" in TypeScript. 
 * Rebuilding the UW MathSoc website and internal systems.
 
