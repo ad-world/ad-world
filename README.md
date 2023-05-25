@@ -4,7 +4,7 @@
 ## 🔎 About Me
 * Third year Computer Science Student at the University of Waterloo! 🦆
 * Seeking Fall 2023 Software Engineering Internship/Co-op Opportunities
-* Interned as a Full Stack Developer @ OMERS from January to April!
+* Interned as a Full Stack Engineer @ OMERS from January to April!
 * Tech Lead @ UW MathSoc
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
@@ -21,11 +21,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks, Libraries, and Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -70,7 +71,7 @@
 <br></br>
 
 #### Github Contributions
-![Aryamans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ad-world&theme=tokyo-night&radius=16&hide_border=true)
+![Aryamans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ad-world&theme=tokyo-night&radius=16&hide_border=true)
 
 ### Another set of contact details, just incase
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad-world/)
