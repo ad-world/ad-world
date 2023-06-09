@@ -4,7 +4,7 @@
 ## 🔎 About Me
 * Third year Computer Science Student at the University of Waterloo! 🦆
 * Seeking Fall 2023 Software Engineering Internship/Co-op Opportunities
-* Interned as a Full Stack Engineer @ OMERS from January to April!
+* Interned as a Full Stack Engineer @ OMERS over the winter term!
 * Tech Lead @ UW MathSoc
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
