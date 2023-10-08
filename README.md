@@ -4,6 +4,7 @@
 ## 🔎 About Me
 * Third-year Computer Science Student at the University of Waterloo! 🦆
 * Software Engineering Intern @ Versa Networks
+* Software Engineer @ Quintilon
 * Tech Lead @ UW MathSoc
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
