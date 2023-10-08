@@ -3,8 +3,7 @@
 
 ## 🔎 About Me
 * Third-year Computer Science Student at the University of Waterloo! 🦆
-* Incoming Frontend Software Engineering Intern @ Versa Networks
-* Interned as a Full Stack Engineer @ OMERS over the winter term!
+* Software Engineering Intern @ Versa Networks
 * Tech Lead @ UW MathSoc
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
