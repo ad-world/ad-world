@@ -61,17 +61,18 @@
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logoColor=white)
 
 ## 🖥 Contributions & Activity
-<!--#### General Github Activity
+#### General Github Activity
 <a href="https://github.com/ad-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-world&show_icons=true&theme=tokyonight&border_radius=20&cache_seconds=1800" alt="Aryaman's GitHub Stats" />
 </a>
-<br></br>-->
-#### Github Streaks
-![Aryaman's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ad-world&theme=tokyonight&border_radius=20)
 <br></br>
 
-<!--#### Github Contributions
-![Aryamans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ad-world&theme=tokyo-night&radius=16&hide_border=true) -->
+<!-- #### Github Streaks
+![Aryaman's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ad-world&theme=tokyonight&border_radius=20)
+<br></br> -->
+
+#### Github Contributions
+![Aryamans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ad-world&theme=tokyo-night&radius=16&hide_border=true) 
 
 ### Another set of contact details, just incase
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad-world/)
