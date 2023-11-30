@@ -10,9 +10,8 @@
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
-* Dubstep, a Spotify playlist generator built on top of Cohere AI's LLMs
-* Working on Music Sessions Reimagined (JAMS), a rebuild of my project titled "Music Sessions" in TypeScript. 
 * Rebuilding the UW MathSoc website and internal systems.
+* A really small BASIC-to-C compiler written in Go.
 
 ## 🔧 Things I can work with...
 #### Languages
