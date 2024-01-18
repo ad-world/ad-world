@@ -4,13 +4,12 @@
 ## 🔎 About Me
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
 * Previously a Software Engineering Intern @ Versa Networks
-* #1 Software Engineer @ Quintilon
+* Software Engineer #1 @ Quintilon
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
-* Rebuilding the UW MathSoc website and internal systems.
-* A really small BASIC-to-C compiler written in Go.
+* Upping my GPA in school lol (taking Distributed Systems, Computer Networks, Computer Security, and Compiler Construction)
 
 ## 🔧 Things I can work with...
 #### Languages
