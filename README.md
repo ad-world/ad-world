@@ -2,8 +2,9 @@
 ![GithubBanner](https://user-images.githubusercontent.com/67097683/232333938-6a696ef4-d22b-4579-81a2-aa0b56151a66.png)
 
 ## 🔎 About Me
+* Incoming Software Engineering Intern @ BitGo, Developer Experience Team
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
-* Previously a Software Engineering Intern @ Versa Networks
+* Previously a Software Engineering Intern @ Versa Networks, OMERS, and Malvor
 * Software Engineer #1 @ Quintilon
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
