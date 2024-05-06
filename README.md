@@ -10,8 +10,7 @@
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
-* Joosc, a Java 1.3 compiler written in C++
-* Upping my GPA in school lol (taking Distributed Systems, Computer Networks, Computer Security, and Compiler Construction)
+* The Andrew Key-Value Store - a distributed kv store based on the Andrew File System
 
 
 ## 🔧 Things I can work with...
