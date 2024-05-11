@@ -4,13 +4,12 @@
 ## 🔎 About Me
 * Incoming Software Engineering Intern @ BitGo, Developer Experience Team
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
-* Previously a Software Engineering Intern @ Versa Networks, OMERS, and Malvor
-* Software Engineer #1 @ Quintilon
+* Previously a Software Engineering Intern @ Versa Networks, Quintilon, OMERS, and Malvor
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
-* The Andrew Key-Value Store - a distributed kv store based on the Andrew File System
+* The [Andrew Key-Value Store](https://github.com/ad-world/akv) - a distributed key-value store based on the Andrew File System
 
 
 ## 🔧 Things I can work with...
