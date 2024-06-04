@@ -2,7 +2,7 @@
 ![GithubBanner](https://user-images.githubusercontent.com/67097683/232333938-6a696ef4-d22b-4579-81a2-aa0b56151a66.png)
 
 ## 🔎 About Me
-* Incoming Software Engineering Intern @ BitGo, Developer Experience Team
+* Software Engineering Intern @ BitGo, Developer Experience Team
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
 * Previously a Software Engineering Intern @ Versa Networks, Quintilon, OMERS, and Malvor
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
