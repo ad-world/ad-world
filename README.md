@@ -3,6 +3,7 @@
 
 ## 🔎 About Me
 * Software Engineering Intern @ BitGo, Developer Experience Team
+* Incoming Software Engineer Intern @ Ramp
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
 * Previously a Software Engineering Intern @ Versa Networks, Quintilon, OMERS, and Malvor
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
