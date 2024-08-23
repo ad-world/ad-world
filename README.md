@@ -2,10 +2,9 @@
 ![GithubBanner](https://user-images.githubusercontent.com/67097683/232333938-6a696ef4-d22b-4579-81a2-aa0b56151a66.png)
 
 ## 🔎 About Me
-* Software Engineering Intern @ BitGo, Developer Experience Team
-* Incoming Software Engineer Intern @ Ramp
+* Incoming Software Engineer Intern @ Ramp (Growth Engineering)
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
-* Previously a Software Engineering Intern @ Versa Networks, Quintilon, OMERS, and Malvor
+* Previously a Software Engineering Intern @ BitGo, Versa Networks, Quintilon, OMERS, and Malvor
 * Check out my <a href="https://www.linkedin.com/in/ad-world/">LinkedIn</a>
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
