@@ -6,6 +6,7 @@
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
 * Previously a Software Engineering Intern @ BitGo, Versa Networks, Quintilon, OMERS, and Malvor
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
+* Interested in: automation, AI agents, building the top 0.1% of products, finance
 
 ## 📈 Currently working on...
 * Email automation + data platforms @ Ramp
