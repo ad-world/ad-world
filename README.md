@@ -8,8 +8,11 @@
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 
 ## 📈 Currently working on...
+* Email automation + data platforms @ Ramp
+* Advent of Code 2024 (in Go, 🖕 all the Haskell glazers)
 * The [Andrew Key-Value Store](https://github.com/ad-world/akv) - a distributed key-value store based on the Andrew File System
 
+<!--
 ## 🔧 Things I can work with...
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,6 +60,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logoColor=white)
 
+
 ## 🖥 Contributions & Activity
 #### General Github Activity
 <a href="https://github.com/ad-world">
@@ -64,14 +68,17 @@
 </a>
 <br></br>
 
-<!-- #### Github Streaks
+
 ![Aryaman's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ad-world&theme=tokyonight&border_radius=20)
-<br></br> -->
+<br></br>
 
 #### Github Contributions
 ![Aryamans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ad-world&theme=tokyo-night&radius=16&hide_border=true) 
+-->
 
-### Another set of contact details, just incase
+### How to reach out
+I would love to chat! I love shipping and would love to be a founder one day. Hit me up to discuss all things tech, soccer, golf, startups, or really anything!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad-world/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryamandhingra@gmail.com)
 [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aryaman.dev)
