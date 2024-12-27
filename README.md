@@ -2,16 +2,15 @@
 ![GithubBanner](https://user-images.githubusercontent.com/67097683/232333938-6a696ef4-d22b-4579-81a2-aa0b56151a66.png)
 
 ## 🔎 About Me
-* Software Engineer Intern @ Ramp (Growth Engineering)
+* Software Engineer @ Ramp (Growth Engineering)
 * Fourth-year Computer Science Student at the University of Waterloo! 🦆
-* Previously a Software Engineering Intern @ BitGo, Versa Networks, Quintilon, OMERS, and Malvor
+* Previously a Software Engineering Intern @ Ramp, BitGo, and more
 * You can also learn more about me on my <a href="https://aryaman.dev">website</a>.
 * Interested in: automation, AI agents, building the top 0.1% of products, finance
 
 ## 📈 Currently working on...
 * Email automation + data platforms @ Ramp
-* Advent of Code 2024 (in Go, 🖕 all the Haskell glazers)
-* The [Andrew Key-Value Store](https://github.com/ad-world/akv) - a distributed key-value store based on the Andrew File System
+* Tinkering with tools like Cursor Composer and v0 by Vercel 
 
 <!--
 ## 🔧 Things I can work with...
