@@ -77,7 +77,7 @@
 -->
 
 ### How to reach out
-I would love to chat! I love shipping and would love to be a founder one day. Hit me up to discuss all things tech, soccer, golf, startups, or really anything!
+Hit me up to discuss all things tech, soccer, golf, startups, or really anything!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad-world/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryamandhingra@gmail.com)
