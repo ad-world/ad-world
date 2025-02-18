@@ -9,8 +9,8 @@
 * Interested in: automation, AI agents, building the top 0.1% of products, finance
 
 ## 📈 Currently working on...
-* Email automation + data platforms @ Ramp
-* Tinkering with tools like Cursor Composer and v0 by Vercel 
+* Growth products and generating pipeline at Ramp
+* Building personal finance tooling for Canadians ([link](https://github.com/ad-world/dawg))
 
 <!--
 ## 🔧 Things I can work with...
